@@ -1,0 +1,44 @@
+category_Id,category_name,category_description,parent_Id
+1,Male,"Clothing for men, including T-shirts, Jeans, Jackets, and more.",NULL
+2,Female,"Clothing for women, including T-shirts, Jeans, Jackets, and more.",NULL
+3,Unisex,"Clothing suitable for all genders, including T-shirts, Jeans, Jackets, etc.",NULL
+4,Kids,"Clothing for children, including shirts, pants, dresses, and jackets.",NULL
+5,"Men's Suits","Formal and semi-formal suits for men, including blazers and trousers.",1
+6,"Men's T-Shirts","T-shirts designed for men, in various styles and fits.",1
+7,"Men's Jeans","Denim jeans made for men, including slim and regular fits.",1
+8,"Men's Jackets","Jackets designed for men, including leather and puffer styles.",1
+9,"Men's Sweaters","Sweaters made for men, in a variety of fabrics and styles.",1
+10,"Men's Shirts","Shirts designed for men, including dress shirts and casual button-downs.",1
+11,"Men's Footwear","Shoes made for men, including sneakers, boots, and formal shoes.",1
+12,"Men's Sportswear","Activewear for men, including athletic shorts, joggers, and jerseys.",1
+13,"Men's Accessories","Accessories made for men, including belts, ties, and caps.",1
+14,"Women's Saree's","Traditional women's sarees in cotton, silk, and modern styles.",2
+15,"Women's Salwar Kameez","Traditional three-piece outfit for women, including kameez, salwar, and dupatta.",2
+16,"Women's T-Shirts","T-shirts designed for women, in a variety of styles and cuts.",2
+17,"Women's Jeans","Denim jeans made for women, including skinny and bootcut fits.",2
+18,"Women's Jackets","Jackets designed for women, including tailored blazers and parkas.",2
+19,"Women's Sweaters","Sweaters made for women, including cardigans and pullovers.",2
+20,"Women's Shirts","Shirts designed for women, including blouses and tunics.",2
+21,"Women's Footwear","Shoes made for women, including heels, flats, and sandals.",2
+22,"Women's Sportswear","Activewear for women, including leggings, sports bras, and tank tops.",2
+23,"Women's Accessories","Accessories made for women, including scarves, handbags, and jewelry.",2
+24,"Oversized T-Shirts","Trendy oversized tees with graphic prints, popular among youth.",3
+25,"Cargo Pants","Unisex cargo pants with multiple pockets, perfect for casual streetwear.",3
+26,"Denim Jackets","Classic and modern denim jackets suitable for everyone.",3
+27,"Graphic Hoodies","Stylish hoodies with bold graphics and streetwear designs.",3
+28,Joggers,"Comfortable unisex jogger pants for casual and athletic wear.",3
+29,"Varsity Jackets","Trendy varsity-style jackets inspired by college fashion.",3
+30,"Unisex Sneakers","Stylish sneakers designed to match modern unisex fashion.",3
+31,"Bucket Hats","Trendy hats for casual streetwear style.",3
+32,"Kids Graphic T-Shirts","T-shirts with fun designs, cartoons, and characters like superheroes and animals for kids.",4
+33,"Kids Button-Down Shirts","Casual button-down shirts with fun patterns for kids.",4
+34,"Kids Denim Shorts","Stylish and comfortable denim shorts for kids.",4
+35,"Kids Jogger Pants","Comfortable jogger pants for kids, ideal for play and outdoor activities.",4
+36,"Kids Leggings","Soft and stretchy leggings with playful patterns for kids.",4
+37,"Kids Puffer Jackets","Warm puffer jackets for kids, ideal for winter or chilly weather.",4
+38,"Kids Raincoats","Waterproof raincoats with fun prints and hoods for kids.",4
+39,"Kids Sneakers","Durable sneakers for kids, perfect for outdoor play or casual outings.",4
+40,"Kids Sunglasses","Colorful sunglasses for kids that provide UV protection.",4
+41,"Kids Beanies","Warm beanies with fun patterns for kids.",4
+42,"Kids Backpacks","Lightweight, fun backpacks for kids with playful designs.",4
+43,"Kids Costumes","Superhero costumes, princess dresses, or animal outfits for kids.",4

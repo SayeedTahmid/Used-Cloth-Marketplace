@@ -1,0 +1,8 @@
+insert into payment(order_Id,payment_method,payment_amount,currency,payment_time,payment_status)
+values
+(1,'bKash',1700.00,'BDT','2025-08-01 10:30:00','Paid'),
+(2,'Card',3499.00,'BDT','2025-08-05 15:45:00','Paid'),
+(3,'Nagad',1200.00,'BDT','2025-08-12 10:00:00','Paid'),
+(4,'Card',4700.00,'BDT','2025-08-18 18:30:00','Paid'),
+(5,'Cash',900.00,'BDT','2025-08-20 14:00:00','Pending'),
+(6,'Cash',6400.00,'BDT','2025-08-23 20:00:00','Pending');

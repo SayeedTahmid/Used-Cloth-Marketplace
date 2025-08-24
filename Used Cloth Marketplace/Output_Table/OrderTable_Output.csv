@@ -1,0 +1,7 @@
+order_Id,user_Id,order_date,order_status,total_amount,shipping_address,tracking_number
+1,2,"2025-08-01 10:30:00",Delivered,1700.00,"12 Gulshan Avenue, Gulshan 2, Dhaka",TRACK0001
+2,5,"2025-08-05 15:45:00",Delivered,3499.00,"52 Eskaton Garden, Poribag, Dhaka",TRACK0002
+3,1,"2025-08-12 09:20:00",Delivered,1200.00,"41 Dilu Road, Moghbazar, Dhaka",TRACK0003
+4,6,"2025-08-18 17:55:00",Shipped,2950.00,"71 Old Elephant Road, Ramna, Dhaka",TRACK0004
+5,3,"2025-08-20 13:15:00",Pending,900.00,"45 Banani Road, Banani, Dhaka",TRACK0005
+6,1,"2025-08-23 19:40:00",Pending,6400.00,"41 Dilu Road, Moghbazar, Dhaka",TRACK0006
